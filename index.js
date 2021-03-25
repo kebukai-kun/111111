@@ -64,4 +64,4 @@ client.on("ready", () => {
   console.log("Estou Online!");
 });
 
-client.login("NzA4Mjk0OTg4MTk4NTc2MjIw.XrVRHA.eAnR9tBxKDRuj2Mx4Q7uNtSPF-4").catch(console.error);
+client.login("coloque o token aqui").catch(console.error);
